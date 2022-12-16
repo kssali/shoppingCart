@@ -1,12 +1,5 @@
 # ReactStore App
 
-This project is part of "ReactRecipe" course by webdiary academy. The progress
-of this app is divided into different branches based on the lessons. 
-
-## Project Branches
-
-1. [Lesson - 1 Final](https://github.com/web2feel/reactstore/tree/lesson-1)
-2. [Lesson - 2 Final](https://github.com/web2feel/reactstore/tree/lesson-2)
 
 ## Available Scripts
 
